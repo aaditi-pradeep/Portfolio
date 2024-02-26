@@ -20,9 +20,15 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/woman-3198772_1280.jpg";
+const imageAltText = "woman holding laptop";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+import image from "../images/background-6360865_1280.jpg";
+const imageAltText = "abstract background";
+
+import image from "../images/work-3938876_1280.jpg";
+const imageAltText = "table with books and laptop";
+
 
 const Home = ({ name, title }) => {
   return (
