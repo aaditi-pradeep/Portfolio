@@ -31,29 +31,23 @@ const imageAltText = "table with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Competitive Programmer",
+    description: "Member of Microsoft Innovations(MIC) Club in VIT "
+  },
+ {
+    title: "Alpha MLSA",
+    description: "Microft Learn Student Ambassador - Alpha "
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+  title: "Web developer",
+  description: "Member of AVR Club in VIT - Technical Department"
   },
+
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+    title: "HTML Essential Training",
+    description: "Web Development for Beginners",
+    url: "https://www.linkedin.com/learning/certificates/583003d7e44b71f0fbdd3c5d80f0fb10f42848572536eac2d8271ba7d82c8973",
+  }
 ];
 
 const Portfolio = () => {
