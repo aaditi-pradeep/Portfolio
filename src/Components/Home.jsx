@@ -23,13 +23,6 @@ import PropTypes from "prop-types";
 import image from "../images/woman-3198772_1280.jpg";
 const imageAltText = "woman holding laptop";
 
-import image from "../images/background-6360865_1280.png";
-const imageAltText = "abstract background";
-
-import image from "../images/work-3938876_1280.jpg";
-const imageAltText = "table with books and laptop";
-
-
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
